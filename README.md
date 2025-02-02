@@ -15,7 +15,7 @@ This end-to-end Azure Data Engineering project focuses on Healthcare Revenue Cyc
 9. **Security & Governance:** Secure credential management using Azure Key Vault and implementation of Unity Catalog for centralized metadata.  
 10. **End-to-End Automation:** Automation of data workflows with conditional execution, parallel processing, and metadata-driven pipelines.  
 
-## 🗂**Technologies Used**  
+## **Technologies Used**  
 - **Azure Data Factory**  
 - **Azure Databricks**  
 - **Azure Data Lake Storage Gen2**  
