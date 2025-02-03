@@ -1,0 +1,1 @@
+This is a metadata driven pipeline which will load data into bronze layer in parquet format sourcing the data from two azure SQL databases(data is assumed to be from two different hospitals)
